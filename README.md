@@ -13,7 +13,7 @@ The goal of this project is twofold:
 
 ##  Getting Started
 
-The software used to flash the Arduino Chip is the Arduino IDE which can be downloaded from [here][5].
+The software used to flash the Arduino Chip is the Arduino IDE which can be downloaded from [here][2].
 
 
 Within the IDE there were multiple libraries that need to be installed in order to use the camera and display.
@@ -47,7 +47,4 @@ See also the list of contributors who participated in this project.
 This project is licensed under the MIT License - see the LICENSE.md file for details
 
 [1]: https://www.fs.fed.us/wildflowers/invasives/index.shtml
-[2]: http://www.dropwizard.io/1.0.2/docs/
-[3]: https://maven.apache.org/
-[4]: https://rometools.github.io/rome/
-[5]: https://www.arduino.cc/en/main/software
+[2]: https://www.arduino.cc/en/main/software
