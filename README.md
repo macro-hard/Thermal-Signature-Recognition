@@ -15,23 +15,22 @@ The goal of this project is twofold:
 
 The software used to flash the Arduino Chip is the Arduino IDE which can be downloaded from here[5].
 
+
 Within the IDE there were multiple libraries that need to be installed in order to use the camera and display.
 They are found in the Arduino IDE under Tools > Manage Libraries.
 For the camera search for Adafruit GFX Library.
 For the display search for Adafruit ILI9341.
+
 
 For the Arduino 32u4 board there is an additional download needed.
 In the Arduino IDE under Tools > Boards > Board Manager search for Adafruit AVR Boards.
 
 ## Built With
 
-Adafruit AMG8833 IR Thermal Camera FeatherWing
-TFT FeatherWing - 2.4" 320x240 Touchscreen For All Feathers
-Adafruit Feather 32u4 Adalogger
+* Adafruit AMG8833 IR Thermal Camera FeatherWing
 
-## Contributing
-
-Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
+* TFT FeatherWing - 2.4" 320x240 Touchscreen For All Feathers
+* Adafruit Feather 32u4 Adalogger
 
 ## Authors
 
@@ -46,11 +45,6 @@ See also the list of contributors who participated in this project.
 ## License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details
-
-## Acknowledgments
-
-
-
 
 [1]: https://www.fs.fed.us/wildflowers/invasives/index.shtml
 [2]: http://www.dropwizard.io/1.0.2/docs/
