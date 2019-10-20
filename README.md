@@ -13,7 +13,7 @@ The goal of this project is twofold:
 
 ##  Getting Started
 
-The software used to flash the Arduino Chip is the Arduino IDE which can be downloaded from here[5].
+The software used to flash the Arduino Chip is the Arduino IDE which can be downloaded from [here][5].
 
 
 Within the IDE there were multiple libraries that need to be installed in order to use the camera and display.
