@@ -29,7 +29,11 @@ In the Arduino IDE under Tools > Boards > Board Manager search for Adafruit AVR 
 
 * Adafruit AMG8833 IR Thermal Camera FeatherWing
 
+![Adafruit AMG8833 IR Thermal Camera FeatherWing Image](https://raw.githubusercontent.com/macro-hard/Thermal-Signature-Recognition/assets/Hardware%201.JPG)
+
 * TFT FeatherWing - 2.4" 320x240 Touchscreen For All Feathers
+
+![TFT FeatherWing - 2.4" 320x240 Touchscreen For All Feathers Image](https://raw.githubusercontent.com/macro-hard/Thermal-Signature-Recognition/assets/Testing1.jpg)
 * Adafruit Feather 32u4 Adalogger
 
 ## Authors
